@@ -14,5 +14,7 @@ Experimental builds
 
 
 this has nothing to do with templecoin or any other variant
+<br>
 https://bitcointalk.org/index.php?topic=2791745.0
+<br>
 https://github.com/9cat/templecoin-android-wallet
